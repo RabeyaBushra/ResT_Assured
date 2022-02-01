@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 01 21:23:01 BDT 2022","Tue Feb 01 21:23:02 BDT 2022","1359","Customer Api Automation","Customer Api Automation","TestRunner","TestRunner","SearchCustomer","SearchCustomer",""
+"passed","Tue Feb 01 21:22:59 BDT 2022","Tue Feb 01 21:23:01 BDT 2022","1639","Customer Api Automation","Customer Api Automation","TestRunner","TestRunner","getCustomerList","getCustomerList",""
+"passed","Tue Feb 01 21:23:03 BDT 2022","Tue Feb 01 21:23:05 BDT 2022","1652","Customer Api Automation","Customer Api Automation","TestRunner","TestRunner","CreateNewCustomer","CreateNewCustomer",""
+"passed","Tue Feb 01 21:23:05 BDT 2022","Tue Feb 01 21:23:06 BDT 2022","1521","Customer Api Automation","Customer Api Automation","TestRunner","TestRunner","UpdateNCustomer","UpdateNCustomer",""
+"passed","Tue Feb 01 21:22:52 BDT 2022","Tue Feb 01 21:22:59 BDT 2022","7128","Customer Api Automation","Customer Api Automation","TestRunner","TestRunner","DoLogIn","DoLogIn",""
+"passed","Tue Feb 01 21:23:02 BDT 2022","Tue Feb 01 21:23:03 BDT 2022","1134","Customer Api Automation","Customer Api Automation","TestRunner","TestRunner","GenerateNewCustomer","GenerateNewCustomer",""
+"passed","Tue Feb 01 21:23:06 BDT 2022","Tue Feb 01 21:23:08 BDT 2022","1442","Customer Api Automation","Customer Api Automation","TestRunner","TestRunner","DeleteCustomer","DeleteCustomer",""

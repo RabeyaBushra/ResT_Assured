@@ -1,0 +1,64 @@
+{
+  "uid" : "e9e1af84ec9e1aa9",
+  "name" : "UpdateNCustomer",
+  "fullName" : "TestRunner.UpdateNCustomer",
+  "historyId" : "e570df31ca714da1d336dcb9c45ac2e7",
+  "time" : {
+    "start" : 1643728849798,
+    "stop" : 1643728851394,
+    "duration" : 1596
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateNCustomer"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Rest_Assued"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-285ADBM"
+  }, {
+    "name" : "thread",
+    "value" : "18496@DESKTOP-285ADBM.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e9e1af84ec9e1aa9.json",
+  "parameterValues" : [ ]
+}

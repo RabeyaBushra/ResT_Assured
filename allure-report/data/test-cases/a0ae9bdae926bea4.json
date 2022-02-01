@@ -1,0 +1,74 @@
+{
+  "uid" : "a0ae9bdae926bea4",
+  "name" : "CreateNewCustomer",
+  "fullName" : "TestRunner.CreateNewCustomer",
+  "historyId" : "7de4ac59798d361a10b14621c7263271",
+  "time" : {
+    "start" : 1643728983621,
+    "stop" : 1643728985273,
+    "duration" : 1652
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateNewCustomer"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Customer Api Automation"
+  }, {
+    "name" : "suite",
+    "value" : "Customer Api Automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-285ADBM"
+  }, {
+    "name" : "thread",
+    "value" : "16128@DESKTOP-285ADBM.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ad451c8be3d0f0f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643728848408,
+        "stop" : 1643728849790,
+        "duration" : 1382
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a0ae9bdae926bea4.json",
+  "parameterValues" : [ ]
+}
